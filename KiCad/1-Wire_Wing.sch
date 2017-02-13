@@ -52,7 +52,7 @@ U 1 1 57F96864
 P 2925 2200
 F 0 "H1" H 2925 3050 50  0000 C CNN
 F 1 "CONN_01X16" V 3025 2200 50  0001 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x16" H 2925 2200 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x16_Pitch2.54mm" H 2925 2200 50  0001 C CNN
 F 3 "" H 2925 2200 50  0000 C CNN
 	1    2925 2200
 	-1   0    0    -1  
@@ -63,7 +63,7 @@ U 1 1 57F96A6F
 P 2925 4975
 F 0 "H3" H 2925 5625 50  0000 C CNN
 F 1 "CONN_01X12" V 3025 4975 50  0001 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x12" H 2925 4975 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x12_Pitch2.54mm" H 2925 4975 50  0001 C CNN
 F 3 "" H 2925 4975 50  0000 C CNN
 	1    2925 4975
 	-1   0    0    -1  
@@ -237,7 +237,7 @@ U 1 1 57F97A43
 P 6475 5175
 F 0 "JP1" H 6475 5375 50  0000 C CNN
 F 1 "CONN_01X03" V 6575 5175 50  0001 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03" H 6475 5175 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 6475 5175 50  0001 C CNN
 F 3 "" H 6475 5175 50  0000 C CNN
 	1    6475 5175
 	-1   0    0    -1  
@@ -298,7 +298,7 @@ U 1 1 57F9D631
 P 7125 4075
 F 0 "F1" H 7225 4125 50  0000 C CNN
 F 1 "FUSE" H 7025 4025 50  0000 C CNN
-F 2 "Capacitors_SMD:C_0603_HandSoldering" H 7125 4075 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" H 7125 4075 50  0001 C CNN
 F 3 "" H 7125 4075 50  0000 C CNN
 	1    7125 4075
 	1    0    0    -1  

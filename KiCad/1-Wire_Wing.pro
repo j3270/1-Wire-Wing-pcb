@@ -1,4 +1,4 @@
-update=10/28/2016 11:41:20 AM
+update=2/13/2017 1:23:38 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=C:/Users/Justin.Jordan/Documents/MyProjects/KiCad_Libraries/schm;../../../KiCad_Libraries/pcb/myConnectors.pretty
+LibDir=../../../My-KiCad-Libraries/schm;../../../My-KiCad-Libraries/pcb;../../../My-KiCad-Libraries/pcb/MaximIntegrated.pretty;../../../My-KiCad-Libraries/pcb/HIROSE_Connectors.pretty;../../../My-KiCad-Libraries/pcb/OMRON_PushButtons.pretty;../../../My-KiCad-Libraries/pcb/TEConnectivity.pretty
 [eeschema/libraries]
 LibName1=power
 LibName2=device
